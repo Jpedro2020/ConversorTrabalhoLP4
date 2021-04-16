@@ -1,0 +1,21 @@
+.linha {
+  display: flex;
+  margin-top: 40px;
+  justify-content: space-around;
+  background-color:yellow;
+}
+
+h1 {
+  text-align: center;
+  margin: auto;
+}
+
+.App {
+  text-align: center;
+  margin: auto;
+  margin-top: 100px;
+  max-width: 500px;
+  background-color: yellow;
+  border-radius: 40px;
+}
+
